@@ -1,0 +1,30 @@
+{
+  "name": "graphql-example",
+  "version": "1.0.0",
+  "description": "Express based api using GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://juancancela:travel2002@github.com/juancancela/graphql-example.git"
+  },
+  "author": "Juan Carlos Cancela <cancela.juancarlos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juancancela/graphql-example/issues"
+  },
+  "homepage": "https://github.com/juancancela/graphql-example#readme",
+  "keywords": [
+    "graphql",
+    "javascript",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.7",
+    "graphql": "^0.10.5",
+    "request": "^2.81.0"
+  }
+}
